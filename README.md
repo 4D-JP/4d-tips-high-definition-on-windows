@@ -6,3 +6,5 @@ Windows高解像度ディスプレイ対応に関する考察など
 * Windows Blogs 
 
 [High-DPI Scaling Improvements for Desktop Applications in the Windows 10 Creators Update](https://blogs.windows.com/buildingapps/2017/04/04/high-dpi-scaling-improvements-desktop-applications-windows-10-creators-update/)  
+
+[Improving the high-DPI experience in GDI based Desktop Apps](https://blogs.windows.com/buildingapps/2017/05/19/improving-high-dpi-experience-gdi-based-desktop-apps/)
